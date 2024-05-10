@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+user_agent
+requests
+flask
+Optional
+
